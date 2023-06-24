@@ -13,10 +13,10 @@ height.fixed.px: 740
 align-content: center
 
 
--- player: AJIT GARG
-dp: $assets.files.assets.ajit.jpg
+-- player: Itee Mishra
+dp: $assets.files.assets.IMG-20221213.jpg
 
-I am DevRel at FifthTry.
+I am a second year Computer Science Student .
 
 -- ftd.column:
 spacing.fixed.px: 10
@@ -29,8 +29,6 @@ link: https://www.linkedin.com/in/itee-mishra-29823b235
 -- button: Instagram
 link: https://instagram.com/iteemishra206?igshid=NGExMmI2YTkyZg==
 
--- button: Instagram
-link: https://instagram.com/iteemishra206?igshid=NGExMmI2YTkyZg==
 
 -- button: Twitter
 link: https://twitter.com/itee_mishra?t=6XM5GCgMeOwlGuSLdvKspQ&s=09
