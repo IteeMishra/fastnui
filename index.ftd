@@ -121,7 +121,7 @@ role: $inherited.types.copy-regular
 
 
 -- ftd.background-image bg-image:
-src: $assets.files.assets.unsplash.jpg
+src: https://unsplash.com/photos/vC8wj_Kphak
 repeat: no-repeat
 position: center
 size: cover
